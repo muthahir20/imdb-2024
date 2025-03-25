@@ -26,3 +26,16 @@ This project focuses on extracting and analyzing movie data from IMDb for the ye
 2. SQL (TiDB for database storage)
 
 3. Streamlit (For interactive web-based analysis)
+
+# Business Use Case
+1. Top 10 Movies by Rating and Voting Counts: Identify movies with the highest ratings and significant voting engagement.
+2. Genre Distribution: Plot the count of movies for each genre in a bar chart.
+3. Average Duration by Genre: Show the average movie duration per genre in a horizontal bar chart.
+4. Voting Trends by Genre: Visualize average voting counts across different genres.
+5. Rating Distribution: Display a histogram or boxplot of movie ratings.
+6. Genre-Based Rating Leaders: Highlight the top-rated movie for each genre in a table.
+7. Most Popular Genres by Voting: Identify genres with the highest total voting counts in a pie chart.
+8. Duration Extremes: Use a table or card display to show the shortest and longest movies.
+9. Ratings by Genre: Use a heatmap to compare average ratings across genres.
+10. Correlation Analysis: Analyze the relationship between ratings and voting counts using a scatter plot.
+
